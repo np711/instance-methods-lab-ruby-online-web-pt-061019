@@ -1,4 +1,6 @@
 class Dog 
   def bark 
-    put "Woof!"
+    puts"Woof!"
+    Dog.sit 
+  
 end 
